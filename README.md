@@ -2,6 +2,19 @@ FULL CODE BELOW:
 This code cerates an account, logs in and out, creates a unique chat room, and checks incorrect and correct usernames/passwords. 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 import java.sql.*;
 import java.util.*; 
 
