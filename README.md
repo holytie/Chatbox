@@ -1,5 +1,5 @@
 FULL CODE BELOW: 
-This code cerates an account, logs in and out, creates a unique chat room, and checks incorrect and correct usernames/passwords. 
+This code creates an account, logs in and out, creates a unique live chat room using SQL, and checks incorrect and correct usernames/passwords. 
 
 
 
