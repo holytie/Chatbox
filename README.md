@@ -6,7 +6,7 @@ public class FullProject {
 	/*
 	 * IMPORTANT NOTE:
 	 * FIRST: Make sure that you are using the right port, database, and adminPassword
-	 * SECOND: Make sure that you have the correct Tables in your database (I sent an email with all the tables, names, and items)
+	 * SECOND: Make sure that you have the correct Tables in your database 
 	 * THIRD: Make sure this file is in the correct folder on your computer
 	 * 
 	 */
